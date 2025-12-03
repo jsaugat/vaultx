@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c35ba085324e0bce",
+        "id": "d81fbc403b530430",
         "type": "tabs",
         "children": [
           {
-            "id": "7fc2e3459f9953cf",
+            "id": "483e1431be0b9aef",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "ai/realistic-roadmap-marina.md",
-                "bFile": "ai/realistic-roadmap-marina.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: realistic-roadmap-marina"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -95,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ai/realistic-roadmap-marina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for realistic-roadmap-marina"
             }
           },
           {
@@ -113,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ai/realistic-roadmap-marina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from realistic-roadmap-marina"
             }
           },
           {
@@ -155,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ai/realistic-roadmap-marina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of realistic-roadmap-marina"
             }
           },
           {
@@ -192,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fc2e3459f9953cf",
+  "active": "578e464c90163a0b",
   "lastOpenFiles": [
     "ai/realistic-roadmap-marina.md",
     "Untitled.md",
