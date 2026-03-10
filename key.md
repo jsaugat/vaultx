@@ -1,4 +1,4 @@
-You want actions, not TED-talk energy. Fine. Here’s the **long-term dev cheat sheet**. Mostly keywords, minimal fluff. Treat it like a checklist.
+DEV SURVIVAL MANUAL — ACTIONS ONLY | STARVE THE FUCKING DOPAMINE. BUILD SYSTEMS.
 
 ---
 
