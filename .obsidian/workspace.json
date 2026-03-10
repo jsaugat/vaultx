@@ -11,10 +11,14 @@
             "id": "483e1431be0b9aef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "more/actual-roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "actual-roadmap"
             }
           }
         ]
@@ -190,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "578e464c90163a0b",
+  "active": "483e1431be0b9aef",
   "lastOpenFiles": [
+    "guide-to-not-fall-behind.md",
     "ai/realistic-roadmap-marina.md",
     "Untitled.md",
     "dev/Untitled.md",
