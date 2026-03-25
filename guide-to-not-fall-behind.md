@@ -8,4 +8,3 @@
 
 1. Try to find the limits
 2. READ THE OUTPUT
-3. Using "plan mode"

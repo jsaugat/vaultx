@@ -5,7 +5,7 @@
 - More React
 - Typescript Basics (Generics/Type/Interface)
 - Problem solving questions
-- Example: Dialpad T9 Mapping by creating interfaces and filtering names
+- Example: Dialpad T9 Mapping by creating UI and filtering names
 - Programming fundamentals like 'Classes'
 - JS Fundamentals obviously
 - No DSA Questions
