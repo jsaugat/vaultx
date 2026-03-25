@@ -1,0 +1,1 @@
+- **Superset of javascript** that adds static typing. it doesn't run in the browser -- it compiles to JavaScript.

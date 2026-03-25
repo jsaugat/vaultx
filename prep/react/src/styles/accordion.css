@@ -1,0 +1,13 @@
+.accordion {
+  margin-bottom: 20px;
+  border: 1px solid rgb(75, 75, 75);
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.question {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-width: 500px;
+}

@@ -1,0 +1,2 @@
+- Screen share / Submit?
+- Span of how many days (interview process)?
