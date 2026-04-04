@@ -1,11 +1,10 @@
 import "./App.css";
-import { AnagramDetector } from "./components/1/anagram-detector";
-import { CaesarCipher } from "./components/1/caesar-cipher";
+import { CartTotalCalculator } from "./components/tier-3/cart-total-calculator";
 
 function App() {
   return (
     <>
-      <AnagramDetector />
+      <CartTotalCalculator />
     </>
   );
 }
