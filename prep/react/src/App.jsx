@@ -1,10 +1,10 @@
 import "./App.css";
-import { CartTotalCalculator } from "./components/tier-3/cart-total-calculator";
+import { HiddenOperatorCalculator } from "./components/t9-group/calculator-hidden-operator";
 
 function App() {
   return (
     <>
-      <CartTotalCalculator />
+      <HiddenOperatorCalculator />
     </>
   );
 }
