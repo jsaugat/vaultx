@@ -1,0 +1,4 @@
+- Find best affordable cities and search unis based on it
+- Search more werkstudent jobs to analyse requirements and shape my portfolio
+- Start working with the stack
+- IELTS prep
