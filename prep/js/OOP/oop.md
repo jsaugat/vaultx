@@ -1,35 +1,12 @@
-# JS Classes
+## Explain constructor functions
 
-- JS is primarily a **prototype-based** language
+- A constructor function is a regular JavaScript function used with the new keyword to create objects.
+- When a constructor function is called with new, JavaScript performs four steps:
+  - **Creates** a new empty object {}.
+  - **Sets** this to reference that new object.
+  - **Links** the new object to the constructor’s prototype.
+  - **Automatically returns** the new object.
+    ![alt text](./img/image.png)
 
-## Object
-
-- collection of properties and methods
-- toLowerCase
-
-## Why use OOP?
-
-- **Modularity**: Organizes code into self-contained objects, making it easier to troubleshoot and change.
-- **Reusability**: Uses inheritance to reuse code across different parts of the application.
-- **Maintainability**: Clear structure makes it easier to update and manage as the codebase grows.
-- **Data Protection**: Encapsulation hides internal details and protects data from accidental modification.
-
-## Components of OOP
-
-- Object Literal
-- Constructor function
-- Prototypes
-- Classes
-- Instances (new, this)
-
-## 4 Pillars
-
-- Abstraction
-- Encapsulation
-- Inheritance
-- Polymorphism
-
-## `this` keyword
-
-- arrow functions do not have their own `this` keyword
--
+- Properties defined inside the constructor are created per instance.
+- Methods defined on the constructor’s prototype are shared across all instances, making this approach more memory-efficient.
