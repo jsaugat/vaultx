@@ -1,0 +1,11 @@
+- gives information about / shows / illustrates
+- percentage / proportion of
+- how
+  - the way
+  - the way in which
+  - the process of
+  - how it is processed
+  - the method of
+  - the steps involved in
+- for the use of / for use as / in order to use
+- best / the most effective

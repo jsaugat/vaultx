@@ -1,3 +1,0 @@
-- over / just over / above
-- below / just under / below / less than / almost
-- about / around / approximately / more or less
